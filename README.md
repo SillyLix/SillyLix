@@ -1,5 +1,10 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [University of helsinki's full stack course](https://github.com/SillyLix/UNI_Hel_full_stack)<br><br>- 🌱 I’m currently learning **react**<br><br>- 👯 I’m looking to collaborate on **fun game project**<br><br>- 👨‍💻 All of my projects are available at [https://www.sillylix.com/](https://www.sillylix.com/)<br><br>- 💬 Ask me about **Unity**<br><br>- 📫 How to reach me **prajwaldhk811@gmail.com**
+- 🔭 I’m currently working on [University of Helsinki's full stack course](https://github.com/SillyLix/UNI_Hel_full_stack)<br><br>
+- 🌱 I’m currently learning **react**<br><br>
+- 👯 I’m looking to collaborate on **fun game project**<br><br>
+- 👨‍💻 All of my projects are available at [https://www.sillylix.com/](https://www.sillylix.com/)<br><br>
+- 💬 Ask me about **Unity**<br><br>
+- 📫 How to reach me **prajwaldhk811@gmail.com**
 
 
 ## 🌐 Socials:
@@ -11,11 +16,5 @@
 ![](https://github-readme-stats.shion.dev/api?username=sillylix&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=sillylix&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sillylix&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sillylix&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=sillylix&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
